@@ -22,15 +22,6 @@ A few words about me... I am currently focused on developing automation scripts,
 
 ---
 
-### GitHub Statistics
-
-Here you can see my profile statistics (automatically updated):
-
-![Dusan's GitHub stats](https://github-readme-stats.vercel.app/api?username=camparevic22&show_icons=true&theme=radial&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camparevic22&layout=compact&theme=radial&hide_border=true)
-
----
-
 ### Contact Me
 - **Discord:** champar22
 - **Email:** camparevic22@gmail.com
