@@ -20,6 +20,7 @@ A few words about me... I am currently focused on developing automation scripts,
 - **Jarvis Voice Assistant** - Improving my voice assistant for computer control and automation.
 - **Custom Chess Engine** - Developing a chess algorithm from scratch using Python.
 
+
 ---
 
 ### Contact Me
