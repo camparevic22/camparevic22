@@ -6,6 +6,7 @@ A few words about me... I am currently focused on developing automation scripts,
 
 ---
 
+
 ### Technologies and Tools
 
 | Domain | Tools and Languages |
