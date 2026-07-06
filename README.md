@@ -2,7 +2,7 @@
 
 ### Future Software Developer
 
-A few words about me... I am currently focused on developing automation scripts, voice assistants (like my Jarvis project), and exploring chess engines. I enjoy combining the power of systems programming languages with modern web technologies.
+A few words about me... I am currently focused on developing automation scripts, learning algoritms and oop, and exploring chess engines. I enjoy combining the power of systems programming languages with modern web technologies.
 
 ---
 
@@ -20,7 +20,7 @@ A few words about me... I am currently focused on developing automation scripts,
 ### Current Projects
 - **Jarvis Voice Assistant** - Improving my voice assistant for computer control and automation.
 - **Custom Chess Engine** - Developing a chess algorithm from scratch using Python.
-
+- **Custom Auto Clicker** - Developing a auto clicker from scratch using Python.
 
 ---
 
