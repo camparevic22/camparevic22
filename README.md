@@ -1,101 +1,60 @@
-<table>
-<tr>
-<td valign="top">
+Dušan Čamparević
 
-<pre>
-                                                                                
-                                                            
-                                       ..... ..                                 
-                                   ..:...............::                         
-                                ::.:::...............::::                       
-                              ::::::::::----:::--:::::----                      
-                            -------:--==============----=--                     
-                          ==-==========================--==--                   
-                          ===++========--================++==                   
-                         +++++=======----=======---======++++=                  
-                        +++++===------------------------==+++=                  
-                        +***+=----------------------------=+=+=                 
-                       ++***+---====++=--------=+++++++=---++=+                 
-                        +***+-=++++=======----======---==--+++=                 
-                        +***+==---======-------=====------:+**                  
-                         ***+---==++++=+==---===++++++==--:**+                  
-                         +**+---===++=====---===========--:+==                  
-                          +++-----==================-----:.+==                  
-                          ++=------==---===========------:.--=                  
-                          +=-:-----=======-----====--=----:-==                  
-                          ++-:---------==++===+===----------.-                  
-                          ----------=================-----:-=                   
-                            =-:------===+=============----:                     
-                              ------==+=++++=++++=====-----                     
-                              ------===+++===========------                     
-                               ----==========+=========---                      
-                               =======================---                       
-                               -========================--                      
-                               -====+++=++==============-:                      
-                              ::-========+++++++++======-+=-                    
-                          :...:=========================-**+:..                 
-                     -.......:-+++=======================*#*-:.......           
-                 --=+-.....:--=*#*+====================++###=-:.:......:-       
-           -----=*====:::::-==++*#*+=================+++*###+=:::::....:------  
-       +++++===-+*++=+:::---===+**#*+===============+++*#%%#*+-=-=:...::-====+=-
-    --=++++**++==*++++-:==---===++#**+=============++++*#%%#*=:--=:-----=======-
- ++=--===+*******+*++**==---=+*++*##*++===========++++*###%#*=-:::----::=+=++==-
-==**++=+*++####**#*****+----+#*++*#%%*+==========+++++#%##%#*=--:---::-:-+++++=+
-++*##*#**##*#########**---=++##+**#%%%%++=======+++++#%%%#%##++++===-:-+******++
-**######%#####%%##%###*-=+*#***++**#%%%%%+++===++++#%%%%%%%%------=*+++=+##**#**
-##**##%##%%%%%%%%%%%%##-===+*##*#*##%%%%%%%#++++#%%%%%%%%%%#*+#**==**===+#%%####
-##%%%#%%%%%%%%%%%%%%%%#**####%##**##%%%%%%%%%%%%%%%%%%%%%%%%#**=====*+++=+%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%****########%#%%%%%%%%%%%%%%%%%%%%%%%%#*++++*+#%##**#%%%%%
-#%%%%%%%%%%%%%%%%%%%%%##**#%#####%#%%%%%%%%%%%%%%%%%%%%%%%%%#**+*##*######%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%*###%####%%#%%%%%%%%%%%%%%%%%%%%%%%%%%###*###**%####%%%%%
-###%%%%%%%%%%%%%%%%%%%###%####%###%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%#####%%###%%%
+Full-Stack Developer | Software Engineering Enthusiast
 
-</pre>
+Building software, exploring computer science, and turning ideas into working projects.
 
-</td>
-<td valign="top">
+"Portfolio" (https://camparevic.is-a.dev) · "GitHub" (https://github.com/camparevic22) · "LinkedIn" (https://linkedin.com/in/dusancamparevic) · "Email" (mailto:camparevic22@gmail.com)
 
-```text
-camparevic22
+---
 
-Name: ................. Dušan Čamparević (Duća)
-Bio: .................. Coding is my daily caffeine
-Location: ............. Knić (centar sveta)
+About Me
 
-OS: ................... Kali Linux, Windows 11
-IDE: .................. VS Code, Vim
-Role: ................. Fullstack Developer
+- Interested in software engineering, systems programming, and computer graphics.
+- Currently exploring algorithms, data structures, and software architecture.
+- Building projects that combine programming, problem-solving, and creativity.
+- Focused on writing clean, maintainable, and efficient code.
 
-Languages.Programming:  JavaScript, C++, C, Python, Rust, Java
-Languages.Computer: ... HTML, CSS, JSON
-Languages.Real: ....... Serbian, English
+Tech Stack
 
-Currently.Learning: ... Advanced C++, OOP,
-                         Algorithms & Data Structures,
-                         Computer Graphics (OpenGL),
-                         Game Engine Architecture,
-                         AI Fundamentals
+Programming Languages
 
-Currently.Building -
-  OpenGL Graphics Engine: ... GLFW + GLAD,
-                              shaders, VAO/VBO,
-                              render pipeline
-  Jarvis Voice Assistant: ... Python voice commands
-                              + PC automation
-  Custom Chess Engine: ...... Game logic,
-                              search algorithms,
-                              AI concepts
-  Custom Auto Clicker: ...... Python automation tool
+"C" "C++" "Python" "JavaScript" "Rust" "Java"
 
-GitHub Stats -
-  Followers: ........ 86
-  Following: ........ 148
-  Public Repos: ..... 5
+Web Development
 
-Contact -
-  Email: ............... camparevic22@gmail.com
-  Discord: ............. camparevic22
-  GitHub: .............. github.com/camparevic22
-  Portfolio: ........... dusan.camparevic22.workers.dev
-  LinkedIn: ............ linkedin.com/in/dusancamparevic
-  Instagram: ........... instagram.com/dusancamparevic
+"HTML" "CSS" "JavaScript" "JSON"
+
+Tools & Technologies
+
+"Git" "Linux" "Windows" "VS Code" "Vim" "GLFW" "OpenGL"
+
+Selected Projects
+
+Project| Description| Technologies
+OpenGL Graphics Engine| Custom graphics engine and rendering pipeline| C++, OpenGL
+Jarvis| Voice-controlled desktop assistant| Python
+Chess Engine| Custom chess engine exploring search algorithms| C++
+Auto Clicker| Desktop automation utility| Python
+
+Currently Learning
+
+- Advanced C++ and object-oriented programming
+- Algorithms and data structures
+- Computer graphics and rendering
+- Game engine architecture
+- Artificial intelligence fundamentals
+
+---
+
+GitHub
+
+""GitHub Stats" (https://github-readme-stats.vercel.app/api?username=camparevic22&show_icons=true&hide_border=true&theme=github_dark)" (https://github.com/camparevic22)
+
+""Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=camparevic22&layout=compact&hide_border=true&theme=github_dark)" (https://github.com/camparevic22)
+
+---
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
