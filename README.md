@@ -47,13 +47,6 @@ Currently Learning
 
 ---
 
-GitHub
-
-""GitHub Stats" (https://github-readme-stats.vercel.app/api?username=camparevic22&show_icons=true&hide_border=true&theme=github_dark)" (https://github.com/camparevic22)
-
-""Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=camparevic22&layout=compact&hide_border=true&theme=github_dark)" (https://github.com/camparevic22)
-
----
 
 <p align="center">
   <i>Always learning. Always building.</i>
